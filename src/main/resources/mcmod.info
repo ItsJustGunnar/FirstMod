@@ -1,0 +1,15 @@
+[
+{
+  "modid": "GunnarsFirstMod",
+  "name": "Gunnar's First Mod",
+  "description": "My first test mod",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gunnar"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
